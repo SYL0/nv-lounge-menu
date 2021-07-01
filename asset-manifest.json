@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nv-lounge-menu/static/css/main.675d102e.chunk.css",
-    "main.js": "/nv-lounge-menu/static/js/main.81e2c286.chunk.js",
-    "main.js.map": "/nv-lounge-menu/static/js/main.81e2c286.chunk.js.map",
+    "main.js": "/nv-lounge-menu/static/js/main.19b7b313.chunk.js",
+    "main.js.map": "/nv-lounge-menu/static/js/main.19b7b313.chunk.js.map",
     "runtime-main.js": "/nv-lounge-menu/static/js/runtime-main.92f089ac.js",
     "runtime-main.js.map": "/nv-lounge-menu/static/js/runtime-main.92f089ac.js.map",
     "static/js/2.66b87b03.chunk.js": "/nv-lounge-menu/static/js/2.66b87b03.chunk.js",
     "static/js/2.66b87b03.chunk.js.map": "/nv-lounge-menu/static/js/2.66b87b03.chunk.js.map",
     "index.html": "/nv-lounge-menu/index.html",
-    "precache-manifest.da203a81b796624aa24dac0bb5e52bc1.js": "/nv-lounge-menu/precache-manifest.da203a81b796624aa24dac0bb5e52bc1.js",
+    "precache-manifest.d5ab8a381720c72735ca5685d80936cd.js": "/nv-lounge-menu/precache-manifest.d5ab8a381720c72735ca5685d80936cd.js",
     "service-worker.js": "/nv-lounge-menu/service-worker.js",
     "static/css/main.675d102e.chunk.css.map": "/nv-lounge-menu/static/css/main.675d102e.chunk.css.map",
     "static/js/2.66b87b03.chunk.js.LICENSE.txt": "/nv-lounge-menu/static/js/2.66b87b03.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.92f089ac.js",
     "static/js/2.66b87b03.chunk.js",
     "static/css/main.675d102e.chunk.css",
-    "static/js/main.81e2c286.chunk.js"
+    "static/js/main.19b7b313.chunk.js"
   ]
 }
